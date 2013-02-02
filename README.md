@@ -1,0 +1,1 @@
+this is a personal sms handling tool,it helps me format the messages exported from windows phone or sysbian phone,only for personal useage

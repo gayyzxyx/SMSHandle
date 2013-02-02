@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/itext-pdfa-5.3.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/itext-xtra-5.3.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/itextpdf-5.3.5.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/lib/itext-pdfa-5.3.5-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/itext-xtra-5.3.5-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/itextpdf-5.3.5-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/lib/itext-pdfa-5.3.5-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/itext-xtra-5.3.5-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/itextpdf-5.3.5-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/itext-2.1.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/lib/itext-2.1.5-sources.jar!/toolbox" />
+          <root url="jar://$MODULE_DIR$/lib/itext-2.1.5-sources.jar!/rups" />
+          <root url="jar://$MODULE_DIR$/lib/itext-2.1.5-sources.jar!/core" />
+          <root url="jar://$MODULE_DIR$/lib/itext-2.1.5-sources.jar!/rtf" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/itext-rtf-2.1.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
